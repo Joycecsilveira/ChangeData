@@ -1,0 +1,7 @@
+C:\Users\joyce.silveira\source\repos\ChangeData\ChangeData\bin\Debug\ChangeData.exe.config
+C:\Users\joyce.silveira\source\repos\ChangeData\ChangeData\bin\Debug\ChangeData.exe
+C:\Users\joyce.silveira\source\repos\ChangeData\ChangeData\bin\Debug\ChangeData.pdb
+C:\Users\joyce.silveira\source\repos\ChangeData\ChangeData\obj\Debug\ChangeData.csprojAssemblyReference.cache
+C:\Users\joyce.silveira\source\repos\ChangeData\ChangeData\obj\Debug\ChangeData.csproj.CoreCompileInputs.cache
+C:\Users\joyce.silveira\source\repos\ChangeData\ChangeData\obj\Debug\ChangeData.exe
+C:\Users\joyce.silveira\source\repos\ChangeData\ChangeData\obj\Debug\ChangeData.pdb
